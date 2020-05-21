@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590040038 source:c:\users\maxil\desktop\tp2\main.cpp
+	<iostream>
+	<cstdlib>
+	"platos.h"
+	"clientes.h"
+	"pedidos.h"
+	"configuracion.h"
+
+1590091182 c:\users\maxil\desktop\tp2\platos.h
+
+1590042175 c:\users\maxil\desktop\tp2\clientes.h
+	<cctype>
+	<ctype.h>
+	<cstring>
+
+1590039368 c:\users\maxil\desktop\tp2\pedidos.h
+	"clientes.h"
+
+1590040858 c:\users\maxil\desktop\tp2\configuracion.h
+	"platos.h"
+	"clientes.h"
+	"pedidos.h"
+
